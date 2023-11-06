@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(72, 155, 148);
+}
+
+#score{
+    font-size: 25px;
+    margin: 60px;
+}
+
+#timer{
+    font-size: 30px;
+    margin: 1400px;
+}
+
+#target_sketch{
+    color: red;
+}
+
